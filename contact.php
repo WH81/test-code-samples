@@ -62,7 +62,7 @@ $today = getDate();
 		<input id="submit" type="submit" name="submit">
 	</form>
 
-	
+	<footer>Copyright info here.</footer>
     
 </body>
 </html>
