@@ -21,7 +21,7 @@ $today = getDate();
     .warning { font-weight: 700; color: red; }
     h2 { box-shadow: 0px 1px black; font-size: 300%; color: white; padding: 1em; border-bottom: .5em solid white; }
 </style>
-<title>PHP testing</title>
+<title>PHP Fun</title>
 </head>
 <body>
     
