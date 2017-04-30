@@ -26,6 +26,8 @@ $today = getDate();
 <body>
     
     <h1>Today's date is: <?php echo date('l jS \of F Y h:i:s A'); ?></h1>
+    <p>Welcome to my testing page. I'm learning Git!</p>
+    
     <pre>
          <?php print_r($today); ?>
     </pre>
